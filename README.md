@@ -1,5 +1,7 @@
 # 🚀 Ejercicio de fin de semana con JS
 
+##  EJERCICIO 1 ---- SEMANA 1 => 22/5/2021
+
 - Constaria en crear una funcion en que se le pase una palabra y busque esta misma en una frase y devuelva la cantidad
 de veces que encuentre coincidencias.
 
@@ -11,3 +13,4 @@ de veces que encuentre coincidencias.
 - Buscar coincidencias por medio de un bucle
 - Iniciar un contador y devolver el resultado
 
+-------------------------------------------------------
