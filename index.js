@@ -12,3 +12,5 @@ export const contarPalabras = (frase, palabra) => {
   return `la cantidad de veces que se repite la palabra: "${palabra}" es ${contador}`;
 };
 
+contarPalabras("esta esta es mi frase", "esta")
+
